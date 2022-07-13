@@ -1,0 +1,15 @@
+/home/dan92/Documentos/C#/Exerc3/Employee/bin/Debug/net6.0/Employee
+/home/dan92/Documentos/C#/Exerc3/Employee/bin/Debug/net6.0/Employee.deps.json
+/home/dan92/Documentos/C#/Exerc3/Employee/bin/Debug/net6.0/Employee.runtimeconfig.json
+/home/dan92/Documentos/C#/Exerc3/Employee/bin/Debug/net6.0/Employee.dll
+/home/dan92/Documentos/C#/Exerc3/Employee/bin/Debug/net6.0/Employee.pdb
+/home/dan92/Documentos/C#/Exerc3/Employee/obj/Debug/net6.0/Employee.csproj.AssemblyReference.cache
+/home/dan92/Documentos/C#/Exerc3/Employee/obj/Debug/net6.0/Employee.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/C#/Exerc3/Employee/obj/Debug/net6.0/Employee.AssemblyInfoInputs.cache
+/home/dan92/Documentos/C#/Exerc3/Employee/obj/Debug/net6.0/Employee.AssemblyInfo.cs
+/home/dan92/Documentos/C#/Exerc3/Employee/obj/Debug/net6.0/Employee.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/C#/Exerc3/Employee/obj/Debug/net6.0/Employee.dll
+/home/dan92/Documentos/C#/Exerc3/Employee/obj/Debug/net6.0/refint/Employee.dll
+/home/dan92/Documentos/C#/Exerc3/Employee/obj/Debug/net6.0/Employee.pdb
+/home/dan92/Documentos/C#/Exerc3/Employee/obj/Debug/net6.0/Employee.genruntimeconfig.cache
+/home/dan92/Documentos/C#/Exerc3/Employee/obj/Debug/net6.0/ref/Employee.dll

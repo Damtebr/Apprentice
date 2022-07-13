@@ -1,0 +1,15 @@
+/home/dan92/Documentos/C#/Exerc3/Parts/bin/Debug/net6.0/Parts
+/home/dan92/Documentos/C#/Exerc3/Parts/bin/Debug/net6.0/Parts.deps.json
+/home/dan92/Documentos/C#/Exerc3/Parts/bin/Debug/net6.0/Parts.runtimeconfig.json
+/home/dan92/Documentos/C#/Exerc3/Parts/bin/Debug/net6.0/Parts.dll
+/home/dan92/Documentos/C#/Exerc3/Parts/bin/Debug/net6.0/Parts.pdb
+/home/dan92/Documentos/C#/Exerc3/Parts/obj/Debug/net6.0/Parts.csproj.AssemblyReference.cache
+/home/dan92/Documentos/C#/Exerc3/Parts/obj/Debug/net6.0/Parts.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/C#/Exerc3/Parts/obj/Debug/net6.0/Parts.AssemblyInfoInputs.cache
+/home/dan92/Documentos/C#/Exerc3/Parts/obj/Debug/net6.0/Parts.AssemblyInfo.cs
+/home/dan92/Documentos/C#/Exerc3/Parts/obj/Debug/net6.0/Parts.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/C#/Exerc3/Parts/obj/Debug/net6.0/Parts.dll
+/home/dan92/Documentos/C#/Exerc3/Parts/obj/Debug/net6.0/refint/Parts.dll
+/home/dan92/Documentos/C#/Exerc3/Parts/obj/Debug/net6.0/Parts.pdb
+/home/dan92/Documentos/C#/Exerc3/Parts/obj/Debug/net6.0/Parts.genruntimeconfig.cache
+/home/dan92/Documentos/C#/Exerc3/Parts/obj/Debug/net6.0/ref/Parts.dll

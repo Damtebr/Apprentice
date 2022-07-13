@@ -1,0 +1,15 @@
+/home/dan92/Documentos/C#/ReadL/bin/Debug/net6.0/ReadL
+/home/dan92/Documentos/C#/ReadL/bin/Debug/net6.0/ReadL.deps.json
+/home/dan92/Documentos/C#/ReadL/bin/Debug/net6.0/ReadL.runtimeconfig.json
+/home/dan92/Documentos/C#/ReadL/bin/Debug/net6.0/ReadL.dll
+/home/dan92/Documentos/C#/ReadL/bin/Debug/net6.0/ReadL.pdb
+/home/dan92/Documentos/C#/ReadL/obj/Debug/net6.0/ReadL.csproj.AssemblyReference.cache
+/home/dan92/Documentos/C#/ReadL/obj/Debug/net6.0/ReadL.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/C#/ReadL/obj/Debug/net6.0/ReadL.AssemblyInfoInputs.cache
+/home/dan92/Documentos/C#/ReadL/obj/Debug/net6.0/ReadL.AssemblyInfo.cs
+/home/dan92/Documentos/C#/ReadL/obj/Debug/net6.0/ReadL.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/C#/ReadL/obj/Debug/net6.0/ReadL.dll
+/home/dan92/Documentos/C#/ReadL/obj/Debug/net6.0/refint/ReadL.dll
+/home/dan92/Documentos/C#/ReadL/obj/Debug/net6.0/ReadL.pdb
+/home/dan92/Documentos/C#/ReadL/obj/Debug/net6.0/ReadL.genruntimeconfig.cache
+/home/dan92/Documentos/C#/ReadL/obj/Debug/net6.0/ref/ReadL.dll

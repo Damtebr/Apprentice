@@ -1,0 +1,15 @@
+/home/dan92/Documentos/C#/Exerc3/Circle/bin/Debug/net6.0/Circle
+/home/dan92/Documentos/C#/Exerc3/Circle/bin/Debug/net6.0/Circle.deps.json
+/home/dan92/Documentos/C#/Exerc3/Circle/bin/Debug/net6.0/Circle.runtimeconfig.json
+/home/dan92/Documentos/C#/Exerc3/Circle/bin/Debug/net6.0/Circle.dll
+/home/dan92/Documentos/C#/Exerc3/Circle/bin/Debug/net6.0/Circle.pdb
+/home/dan92/Documentos/C#/Exerc3/Circle/obj/Debug/net6.0/Circle.csproj.AssemblyReference.cache
+/home/dan92/Documentos/C#/Exerc3/Circle/obj/Debug/net6.0/Circle.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/C#/Exerc3/Circle/obj/Debug/net6.0/Circle.AssemblyInfoInputs.cache
+/home/dan92/Documentos/C#/Exerc3/Circle/obj/Debug/net6.0/Circle.AssemblyInfo.cs
+/home/dan92/Documentos/C#/Exerc3/Circle/obj/Debug/net6.0/Circle.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/C#/Exerc3/Circle/obj/Debug/net6.0/Circle.dll
+/home/dan92/Documentos/C#/Exerc3/Circle/obj/Debug/net6.0/refint/Circle.dll
+/home/dan92/Documentos/C#/Exerc3/Circle/obj/Debug/net6.0/Circle.pdb
+/home/dan92/Documentos/C#/Exerc3/Circle/obj/Debug/net6.0/Circle.genruntimeconfig.cache
+/home/dan92/Documentos/C#/Exerc3/Circle/obj/Debug/net6.0/ref/Circle.dll

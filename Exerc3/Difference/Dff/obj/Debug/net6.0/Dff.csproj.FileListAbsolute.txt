@@ -1,0 +1,15 @@
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/bin/Debug/net6.0/Dff
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/bin/Debug/net6.0/Dff.deps.json
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/bin/Debug/net6.0/Dff.runtimeconfig.json
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/bin/Debug/net6.0/Dff.dll
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/bin/Debug/net6.0/Dff.pdb
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/obj/Debug/net6.0/Dff.csproj.AssemblyReference.cache
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/obj/Debug/net6.0/Dff.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/obj/Debug/net6.0/Dff.AssemblyInfoInputs.cache
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/obj/Debug/net6.0/Dff.AssemblyInfo.cs
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/obj/Debug/net6.0/Dff.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/obj/Debug/net6.0/Dff.dll
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/obj/Debug/net6.0/refint/Dff.dll
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/obj/Debug/net6.0/Dff.pdb
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/obj/Debug/net6.0/Dff.genruntimeconfig.cache
+/home/dan92/Documentos/C#/Exerc3/Difference/Dff/obj/Debug/net6.0/ref/Dff.dll

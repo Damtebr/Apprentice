@@ -1,0 +1,15 @@
+/home/dan92/Documentos/C#/SaidaCSharp/bin/Debug/net6.0/SaidaCSharp
+/home/dan92/Documentos/C#/SaidaCSharp/bin/Debug/net6.0/SaidaCSharp.deps.json
+/home/dan92/Documentos/C#/SaidaCSharp/bin/Debug/net6.0/SaidaCSharp.runtimeconfig.json
+/home/dan92/Documentos/C#/SaidaCSharp/bin/Debug/net6.0/SaidaCSharp.dll
+/home/dan92/Documentos/C#/SaidaCSharp/bin/Debug/net6.0/SaidaCSharp.pdb
+/home/dan92/Documentos/C#/SaidaCSharp/obj/Debug/net6.0/SaidaCSharp.csproj.AssemblyReference.cache
+/home/dan92/Documentos/C#/SaidaCSharp/obj/Debug/net6.0/SaidaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/C#/SaidaCSharp/obj/Debug/net6.0/SaidaCSharp.AssemblyInfoInputs.cache
+/home/dan92/Documentos/C#/SaidaCSharp/obj/Debug/net6.0/SaidaCSharp.AssemblyInfo.cs
+/home/dan92/Documentos/C#/SaidaCSharp/obj/Debug/net6.0/SaidaCSharp.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/C#/SaidaCSharp/obj/Debug/net6.0/SaidaCSharp.dll
+/home/dan92/Documentos/C#/SaidaCSharp/obj/Debug/net6.0/refint/SaidaCSharp.dll
+/home/dan92/Documentos/C#/SaidaCSharp/obj/Debug/net6.0/SaidaCSharp.pdb
+/home/dan92/Documentos/C#/SaidaCSharp/obj/Debug/net6.0/SaidaCSharp.genruntimeconfig.cache
+/home/dan92/Documentos/C#/SaidaCSharp/obj/Debug/net6.0/ref/SaidaCSharp.dll

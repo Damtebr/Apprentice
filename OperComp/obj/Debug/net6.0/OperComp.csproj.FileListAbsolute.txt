@@ -1,0 +1,15 @@
+/home/dan92/Documentos/C#/OperComp/bin/Debug/net6.0/OperComp
+/home/dan92/Documentos/C#/OperComp/bin/Debug/net6.0/OperComp.deps.json
+/home/dan92/Documentos/C#/OperComp/bin/Debug/net6.0/OperComp.runtimeconfig.json
+/home/dan92/Documentos/C#/OperComp/bin/Debug/net6.0/OperComp.dll
+/home/dan92/Documentos/C#/OperComp/bin/Debug/net6.0/OperComp.pdb
+/home/dan92/Documentos/C#/OperComp/obj/Debug/net6.0/OperComp.csproj.AssemblyReference.cache
+/home/dan92/Documentos/C#/OperComp/obj/Debug/net6.0/OperComp.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/C#/OperComp/obj/Debug/net6.0/OperComp.AssemblyInfoInputs.cache
+/home/dan92/Documentos/C#/OperComp/obj/Debug/net6.0/OperComp.AssemblyInfo.cs
+/home/dan92/Documentos/C#/OperComp/obj/Debug/net6.0/OperComp.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/C#/OperComp/obj/Debug/net6.0/OperComp.dll
+/home/dan92/Documentos/C#/OperComp/obj/Debug/net6.0/refint/OperComp.dll
+/home/dan92/Documentos/C#/OperComp/obj/Debug/net6.0/OperComp.pdb
+/home/dan92/Documentos/C#/OperComp/obj/Debug/net6.0/OperComp.genruntimeconfig.cache
+/home/dan92/Documentos/C#/OperComp/obj/Debug/net6.0/ref/OperComp.dll

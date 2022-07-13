@@ -1,0 +1,15 @@
+/home/dan92/Documentos/C#/Exerc3/Values/bin/Debug/net6.0/Values
+/home/dan92/Documentos/C#/Exerc3/Values/bin/Debug/net6.0/Values.deps.json
+/home/dan92/Documentos/C#/Exerc3/Values/bin/Debug/net6.0/Values.runtimeconfig.json
+/home/dan92/Documentos/C#/Exerc3/Values/bin/Debug/net6.0/Values.dll
+/home/dan92/Documentos/C#/Exerc3/Values/bin/Debug/net6.0/Values.pdb
+/home/dan92/Documentos/C#/Exerc3/Values/obj/Debug/net6.0/Values.csproj.AssemblyReference.cache
+/home/dan92/Documentos/C#/Exerc3/Values/obj/Debug/net6.0/Values.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/C#/Exerc3/Values/obj/Debug/net6.0/Values.AssemblyInfoInputs.cache
+/home/dan92/Documentos/C#/Exerc3/Values/obj/Debug/net6.0/Values.AssemblyInfo.cs
+/home/dan92/Documentos/C#/Exerc3/Values/obj/Debug/net6.0/Values.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/C#/Exerc3/Values/obj/Debug/net6.0/Values.dll
+/home/dan92/Documentos/C#/Exerc3/Values/obj/Debug/net6.0/refint/Values.dll
+/home/dan92/Documentos/C#/Exerc3/Values/obj/Debug/net6.0/Values.pdb
+/home/dan92/Documentos/C#/Exerc3/Values/obj/Debug/net6.0/Values.genruntimeconfig.cache
+/home/dan92/Documentos/C#/Exerc3/Values/obj/Debug/net6.0/ref/Values.dll

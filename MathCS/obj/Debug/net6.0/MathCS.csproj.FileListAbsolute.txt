@@ -1,0 +1,15 @@
+/home/dan92/Documentos/C#/MathCS/obj/Debug/net6.0/MathCS.csproj.AssemblyReference.cache
+/home/dan92/Documentos/C#/MathCS/obj/Debug/net6.0/MathCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/C#/MathCS/obj/Debug/net6.0/MathCS.AssemblyInfoInputs.cache
+/home/dan92/Documentos/C#/MathCS/obj/Debug/net6.0/MathCS.AssemblyInfo.cs
+/home/dan92/Documentos/C#/MathCS/obj/Debug/net6.0/MathCS.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/C#/MathCS/bin/Debug/net6.0/MathCS
+/home/dan92/Documentos/C#/MathCS/bin/Debug/net6.0/MathCS.deps.json
+/home/dan92/Documentos/C#/MathCS/bin/Debug/net6.0/MathCS.runtimeconfig.json
+/home/dan92/Documentos/C#/MathCS/bin/Debug/net6.0/MathCS.dll
+/home/dan92/Documentos/C#/MathCS/bin/Debug/net6.0/MathCS.pdb
+/home/dan92/Documentos/C#/MathCS/obj/Debug/net6.0/MathCS.dll
+/home/dan92/Documentos/C#/MathCS/obj/Debug/net6.0/refint/MathCS.dll
+/home/dan92/Documentos/C#/MathCS/obj/Debug/net6.0/MathCS.pdb
+/home/dan92/Documentos/C#/MathCS/obj/Debug/net6.0/MathCS.genruntimeconfig.cache
+/home/dan92/Documentos/C#/MathCS/obj/Debug/net6.0/ref/MathCS.dll
